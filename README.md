@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=krystiankr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 [![Krystian's github activity graph](https://activity-graph.herokuapp.com/graph?username=krystiankr&theme=xcode)](https://git.io/krystiankr)
 ![Krystian's counter](https://komarev.com/ghpvc/?username=krystiankr)

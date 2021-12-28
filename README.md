@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=krystiankr)
 [![Krystian's github activity graph](https://activity-graph.herokuapp.com/graph?username=krystiankr&theme=xcode)](https://git.io/krystiankr)
 ![Krystian's counter](https://komarev.com/ghpvc/?username=krystiankr)

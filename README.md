@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=krystiankr)
+[![Krystian's github activity graph](https://activity-graph.herokuapp.com/graph?username=krystiankr&theme=xcode)](https://git.io/krystiankr)
+![Krystian's counter](https://komarev.com/ghpvc/?username=krystiankr)

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📊 &nbsp;**This week I spent my time on**
+![Krystian's github stats](https://github-readme-stats.vercel.app/api?username=krystiankr&show_icons=true&theme=dracula&hide=stars,issues)
 
 [![Krystian's github activity graph](https://activity-graph.herokuapp.com/graph?username=krystiankr&theme=xcode)](https://git.io/krystiankr)
 ![Krystian's counter](https://komarev.com/ghpvc/?username=krystiankr)

@@ -17,12 +17,15 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=krystiankr&show_icons=true&theme=dracula&hide=stars,issues">](https://metrics.lecoq.io/ouuan?template=classic)
 
 - 🔭 I'm currently studying in University of Warmia and Mazury
 - 🤍 I am a python enthusiast
 - 📈 I’m currently learning Machine Learning, Big Data, AWS
 - 💻 I love writing code and learn anythings about it
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=krystiankr&show_icons=true&theme=dracula&hide=stars,issues">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystiankr&hide=TeX&layout=compact&theme=dracula">](https://metrics.lecoq.io/ouuan?template=classic)
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -42,5 +45,5 @@ Here are some ideas to get you started:
 
 <!--![Krystian's github stats]()
 -->
-[![Krystian's github activity graph](https://activity-graph.herokuapp.com/graph?username=krystiankr&theme=xcode)](https://git.io/krystiankr)
+[![Krystian's github activity graph](https://activity-graph.herokuapp.com/graph?username=krystiankr&theme=dracula)](https://git.io/krystiankr)
 ![Krystian's counter](https://komarev.com/ghpvc/?username=krystiankr)

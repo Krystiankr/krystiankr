@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 - 📈 I’m currently learning Machine Learning, Big Data, AWS
 - 💻 I love writing code and learn anythings about it
 
-  [<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=krystiankr&show_icons=true&theme=dracula&hide=stars,issues">](https://metrics.lecoq.io/ouuan?template=classic)
-  [<img  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystiankr&hide=TeX&layout=compact&theme=dracula">](https://metrics.lecoq.io/ouuan?template=classic)
-
-
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 

@@ -40,6 +40,3 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-<!--![Krystian's github stats]()
--->
-[![Krystian's github activity graph](https://activity-graph.herokuapp.com/graph?username=krystiankr&theme=xcode)](https://git.io/krystiankr)

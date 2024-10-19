@@ -17,8 +17,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-![Krystian's counter](https://komarev.com/ghpvc/?username=krystiankr&color=lightgrey)
-
 - 🔭 I'm currently studying in University of Warmia and Mazury
 - 🤍 I am a python enthusiast
 - 📈 I’m currently learning Machine Learning, Big Data, AWS

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently studying in University of Warmia and Mazury
 - 🤍 I am a python enthusiast
-- 📈 I’m currently learning Machine Learning, Big Data, AWS
+- 📈 I’m currently learning Power Platform
 - 💻 I love writing code and learn anythings about it
 
 <hr>
